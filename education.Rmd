@@ -1,0 +1,17 @@
+---
+title: "Education"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+### Bachelor of Arts    _2013-2017_
+[College of Saint Benedict](https://www.csbsju.edu/) 
+Saint Joseph, MN
+
+
+### Masters of Public Health     _2017-2019_
+[Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/) 
+New York, NY

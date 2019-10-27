@@ -1,0 +1,16 @@
+name: "Sarah Maxine McLarnan, MPH"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Education"
+      href: education.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<smm2316@cumc.columbia.edu>
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/sarah-mclarnan-bb6488117
+    - icon: fa-github fa-lg
+      href: http://github.com/<smm2316>/
+output:
+  html_document:
+    theme: flatly
