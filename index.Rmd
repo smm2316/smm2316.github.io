@@ -7,4 +7,6 @@ output:
     theme: cerulean
 ---
 
+<img src="headshot.jpg" style="width:75%">
 
+Sarah McLarnan, MPH is a first year Environmental Health doctoral student at Columbia University Mailman School of Public Health. Sarah specializes in developmental neurotoxicology. 
