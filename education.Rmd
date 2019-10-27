@@ -1,17 +1,31 @@
 ---
 title: "Education"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
-    theme: cerulean
+  html_document
 ---
 
-### Bachelor of Arts    _2013-2017_
+### Bachelor of Arts  | _2013-2017_
 [College of Saint Benedict](https://www.csbsju.edu/) 
 Saint Joseph, MN
 
+Majors: Environmental Studies and Biology
 
-### Masters of Public Health     _2017-2019_
+
+
+### Masters of Public Health  | _2017-2019_
 [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/) 
 New York, NY
+
+Department: Environmental Health Sciences
+
+Certificate: Molecular Epidemiology
+
+
+
+### Doctor of Philosophy | _2019-Present_
+[Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/) 
+New York, NY
+
+Department: Environmental Health Sciences
+
+Track: Toxicology and Molecular Mechanisms
