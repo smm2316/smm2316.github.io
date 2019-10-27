@@ -1,96 +1,120 @@
 ---
 title: "Work Experience"
-output: 
-  html_document
+output: html_document
 ---
-
-Science Intern								                    |  September 2018-Present
-----------------------------------------------------------------------------------------------------------------------------------
-_New York State Attorney General’s Office Environmental Protection Bureau (New York, NY)_
-----------------------------------------------------------------------------------------------------------------------------------
-* Work directly with the Chief Scientist and Assistant Attorney Generals of the Bureau to research current literature relevant to pending and current cases 
-*	Draft reports, fact sheets, briefs, presentations, and data analyses on research findings
-*	Identify new scientific reports that offer novel litigation opportunities
-
-## Short Term Casual (Student)								             January 2018-Present
-_Columbia University Environmental Health Sciences Department (New York, NY)_
-*	Contribute to protocol design, laboratory set-up, and experimental validation in early stages of research
-*	Identify DNA damage and cytotoxicity in response to various pesticides, toxic metals, and endocrine disrupting chemicals using antibody-based fluorescence immunohistochemistry labeling
-*	Quantify DNA damage and oxidative stress using fluorescence microscopy and image analysis 
-*	Optimize feeder-free serum-free spermatogonial stem cell culture for future studies
-
-## Seasonal Environmental Health Technician					         Summer 2017 and 2018
+Seasonal Environmental Health Technician					      |   Summer 2017, 2018, 2019
+---------------------------------------------------------------------------------------------------------------------------------
 _City of Minneapolis Department of Health (Minneapolis, MN)_
+---------------------------------------------------------------------------------------------------------------------------------
 *	Conducted approximately 120 routine erosion control inspections of residential and commercial construction sites in Minneapolis
 *	Responded daily to citizen complaints regarding air, noise, and land pollution
 *	Organized and implemented accessory initiative projects including; pollinator plant installation, study of lead abatement, and air quality monitoring 
 *	Developed and administered ash tree surveillance program to estimate economic impact of Emerald Ash Borer in the city
 
+Science Intern								                    |  September 2018-December 2018
+---------------------------------------------------------------------------------------------------------------------------------
+_New York State Attorney General’s Office Environmental Protection Bureau (New York, NY)_
+---------------------------------------------------------------------------------------------------------------------------------
+* Worked directly with the Chief Scientist and Assistant Attorney Generals of the Bureau to research current literature relevant to pending and current cases 
+*	Drafted reports, fact sheets, briefs, presentations, and data analyses on research findings
+*	Identified new scientific reports that offer novel litigation opportunities
 
-## EPA GRO Research Fellow									April 2016-May 2017
+Short Term Casual (Student)								           |  January 2018-Present
+----------------------------------------------------------------------------------------------------------------------------------
+_Columbia University Environmental Health Sciences Department (New York, NY)_
+----------------------------------------------------------------------------------------------------------------------------------
+*	Contribute to protocol design, laboratory set-up, and experimental validation in early stages of research
+*	Identify DNA damage and cytotoxicity in response to various pesticides, toxic metals, and endocrine disrupting chemicals using antibody-based fluorescence immunohistochemistry labeling
+*	Quantify DNA damage and oxidative stress using fluorescence microscopy and image analysis 
+*	Optimize feeder-free serum-free spermatogonial stem cell culture for future studies
+
+
+EPA GRO Research Fellow							|		April 2016-May 2017
+---------------------------------------------------------------------------------------------------------------------------------
 _Environmental Protection Agency (St. Joseph, MN)_
+---------------------------------------------------------------------------------------------------------------------------------
 *	Developed research protocol for study of fecal coliform impairment of Plum Creek in coordination with state and local agencies
 *	Collected water and sediment samples for E. coli enumeration and measured pH, dissolved oxygen, conductivity, turbidity and transparency following MPCA protocol
 *	Incubated and enumerated E. coli from water samples, transported samples to University of Minnesota Biotechnology Institute for processing of sediment samples and DNA source tracking
 *	Analyzed data to develop recommendations regarding summer of 2017 study site and design parameters
 
-##Tribal Climate Change Adaptation Intern						          June 2016-August 2016
-_Environmental Protection Agency Alaska Operations Office (Anchorage, AK)_		 
-	Researched and wrote white paper summarizing Alaskan Native climate change adaptation and resilience
+Tribal Climate Change Adaptation Intern						      |    June 2016-August 2016
+---------------------------------------------------------------------------------------------------------------------------------
+_Environmental Protection Agency Alaska Operations Office (Anchorage, AK)_	
+---------------------------------------------------------------------------------------------------------------------------------
+*	Researched and wrote white paper summarizing Alaskan Native climate change adaptation and resilience
 *	Traveled to three remote Alaskan Native villages to gather information on culture, resilience and climate change impacts
 *	Presented summary of findings to regional EPA staff with recommendations for appropriately supporting resilience and respecting culture during climate change adaptation
 
-## GIS Teaching Assistant								         January 2016-May 2017
+GIS Teaching Assistant								     |    January 2016-May 2017
+---------------------------------------------------------------------------------------------------------------------------------
 _Environmental Studies Department, College of Saint Benedict (St. Joseph, MN)_
+---------------------------------------------------------------------------------------------------------------------------------
 *	Assisted students in upper division Introduction to Geographic Information Systems course with weekly assignments and semester projects
 *	Conducted lectures when professor is unavailable and held office hours twice a week to work with students
 *	Worked with university forester and other members of campus community to provide GIS support for various projects 
 
-Student Delegate to the United Nations Framework Convention on Climate Change     March 2015-May 2017
-College of Saint Benedict (St. Joseph, MN) 
-•	Generated research portfolio on global food security in the context of climate change to brief other student delegates and frame understanding of conference proceedings
-•	Attended the 2015 United Nations Framework Convention on Climate Change with special focus on sessions related to agriculture and food security
-•	Disseminate information and experience to campus and community through presentations, Climate Action Club membership, and a written report
+Student Delegate to the United Nations Framework Convention on Climate Change   |  March 2015-May 2017
+---------------------------------------------------------------------------------------------------------------------------------
+_College of Saint Benedict (St. Joseph, MN)_ 
+---------------------------------------------------------------------------------------------------------------------------------
+*	Generated research portfolio on global food security in the context of climate change to brief other student delegates and frame understanding of conference proceedings
+*	Attended the 2015 United Nations Framework Convention on Climate Change with special focus on sessions related to agriculture and food security
+*	Disseminate information and experience to campus and community through presentations, Climate Action Club membership, and a written report
 
 Lead Researcher			         January 2015-May 2016
-FullCircle Greenhouse, College of Saint Benedict (St. Joseph, MN)
-•	Developed protocol to study and maximize energy efficiency of newly constructed passive solar winter greenhouse on campus
-•	Installed and monitored 10 HOBO data loggers to collect data on soil, air and water temperatures, and light availability in planting and thermal mass structures 
-•	Analyzed data and proposed modifications to gutter structure, increased thermal mass, and specified optimal planting locations within the greenhouse
+---------------------------------------------------------------------------------------------------------------------------------
+_FullCircle Greenhouse, College of Saint Benedict (St. Joseph, MN)_
+---------------------------------------------------------------------------------------------------------------------------------
+*	Developed protocol to study and maximize energy efficiency of newly constructed passive solar winter greenhouse on campus
+*	Installed and monitored 10 HOBO data loggers to collect data on soil, air and water temperatures, and light availability in planting and thermal mass structures 
+*	Analyzed data and proposed modifications to gutter structure, increased thermal mass, and specified optimal planting locations within the greenhouse
 
-Volunteer Coordinator								         January 2015-May 2016
-FullCircle Greenhouse, College of Saint Benedict (St. Joseph, MN)
-•	Collaborated with five other student coordinators and staff advisor to make decisions regarding finances, plant care, and educational programing 
-•	Recruited more than 30 student volunteers and trained them to properly care for the student-run passive solar winter greenhouse
-•	Communicated with volunteers regarding scheduling, harvesting and maintenance concerns
+Volunteer Coordinator								        | January 2015-May 2016
+---------------------------------------------------------------------------------------------------------------------------------
+_FullCircle Greenhouse, College of Saint Benedict (St. Joseph, MN)_
+---------------------------------------------------------------------------------------------------------------------------------
+*	Collaborated with five other student coordinators and staff advisor to make decisions regarding finances, plant care, and educational programing 
+*	Recruited more than 30 student volunteers and trained them to properly care for the student-run passive solar winter greenhouse
+*	Communicated with volunteers regarding scheduling, harvesting and maintenance concerns
 
-Education Coordinator				            March 2014-May 2016
-FullCircle Greenhouse, College of Saint Benedict (St. Joseph, MN)				            
-•	Collaborated with four other student coordinators and staff advisor to make decisions regarding finances, plant care, and educational programing
-•	Led students, staff, and community members on 30-60 minute tours of greenhouse covering design, financial and environmental sustainability, and operations
-•	Created interactive educational programs appropriate for students 6-12th grade to demonstrate scientific processes including photosynthesis, thermal mass, and the greenhouse effect
+Education Coordinator				          |  March 2014-May 2016
+---------------------------------------------------------------------------------------------------------------------------------
+_FullCircle Greenhouse, College of Saint Benedict (St. Joseph, MN)_	
+---------------------------------------------------------------------------------------------------------------------------------
+*	Collaborated with four other student coordinators and staff advisor to make decisions regarding finances, plant care, and educational programing
+*	Led students, staff, and community members on 30-60 minute tours of greenhouse covering design, financial and environmental sustainability, and operations
+*	Created interactive educational programs appropriate for students 6-12th grade to demonstrate scientific processes including photosynthesis, thermal mass, and the greenhouse effect
 Additional Experience
 
-Outdoor Leadership Center Manager                   August 2016-May 2017
-Saint John’s University (Collegeville, MN)
-•	Developed and monitored budget and gear inventory, formally requested funding from Student Senates when necessary
-•	Coordinated with professionals on and off campus to advertise and host events including; polar plunge, skills clinics, rock climbing events, day trips, and the annual triathlon
-•	Organized and supervised staff of 13 students, creating work schedules and delegating event planning, and reporting weekly to staff advisor
+Outdoor Leadership Center Manager                |   August 2016-May 2017
+---------------------------------------------------------------------------------------------------------------------------------
+_Saint John’s University (Collegeville, MN)_
+---------------------------------------------------------------------------------------------------------------------------------
+*	Developed and monitored budget and gear inventory, formally requested funding from Student Senates when necessary
+*	Coordinated with professionals on and off campus to advertise and host events including; polar plunge, skills clinics, rock climbing events, day trips, and the annual triathlon
+*	Organized and supervised staff of 13 students, creating work schedules and delegating event planning, and reporting weekly to staff advisor
 
-Co-Program Director 							                         June 2015-August 2015
-Laketrails Basecamp (Oak Island, MN)
-•	Interfaced between staff and director to manage daily camp functioning and facilitate communication and a supportive work environment
-•	Developed program of activities on basecamp for groups with various ages, abilities, and objectives in all weather conditions
-•	Fulfilled responsibilities of guide position including taking youth of various backgrounds on five-day wilderness canoe trips designed to teach and empower 
+Co-Program Director 							                      |   June 2015-August 2015
+---------------------------------------------------------------------------------------------------------------------------------
+_Laketrails Basecamp (Oak Island, MN)_
+---------------------------------------------------------------------------------------------------------------------------------
+*	Interfaced between staff and director to manage daily camp functioning and facilitate communication and a supportive work environment
+*	Developed program of activities on basecamp for groups with various ages, abilities, and objectives in all weather conditions
+* Fulfilled responsibilities of guide position including taking youth of various backgrounds on five-day wilderness canoe trips designed to teach and empower 
 
-Guide											          June 2014-August 2014
-Laketrails Basecamp (Oak Island, MN)
-•	Guided five-day canoe trips of youth aged 11-18 years old from various backgrounds including school groups, juvenile delinquency centers and social services 
-•	Employed and taught wilderness skills including; paddling a canoe, navigation, building and cooking over a fire, and portaging 
-•	Collaborated with co-guides to carry out programing on basecamp 
+Guide											        |  June 2014-August 2014
+---------------------------------------------------------------------------------------------------------------------------------
+_Laketrails Basecamp (Oak Island, MN)_
+---------------------------------------------------------------------------------------------------------------------------------
+*	Guided five-day canoe trips of youth aged 11-18 years old from various backgrounds including school groups, juvenile delinquency centers and social services 
+*	Employed and taught wilderness skills including; paddling a canoe, navigation, building and cooking over a fire, and portaging 
+*	Collaborated with co-guides to carry out programing on basecamp 
 
-Outdoor Leadership Center Associate             					           August 2013-May 2016
-Saint John’s Outdoor University (Collegeville, MN)
-•	Organized on campus events in coordination with student groups and campus offices including; polar plunge, skills clinics, rock climbing events, day trips, and the annual triathlon
-•	Rented outdoor equipment to students and community members maintaining records of returns and late fees and equipment conditions
-•	Repaired outdoor equipment and researched reasonable replacements for items that could not be repaired
+Outdoor Leadership Center Associate             					          | August 2013-May 2016
+---------------------------------------------------------------------------------------------------------------------------------
+_Saint John’s Outdoor University (Collegeville, MN)_
+---------------------------------------------------------------------------------------------------------------------------------
+*	Organized on campus events in coordination with student groups and campus offices including; polar plunge, skills clinics, rock climbing events, day trips, and the annual triathlon
+*	Rented outdoor equipment to students and community members maintaining records of returns and late fees and equipment conditions
+*	Repaired outdoor equipment and researched reasonable replacements for items that could not be repaired
