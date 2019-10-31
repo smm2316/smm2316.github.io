@@ -1,5 +1,5 @@
 ---
-title: "Education"
+title: "Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -22,8 +22,9 @@ nyc_food =
   filter(boro!="Missing")
 
 ```
+
 Column {data-width=650}
------------------------------------------------------------------------
+----------------------------------------------------------------------------
 
 ### Chart A
 
@@ -35,8 +36,9 @@ nyc_food %>%
   summarize(n=n()) %>%
   plot_ly(x = ~year, y = ~n, color = ~boro, type = "scatter", mode = "line")
 ```
+
 Column {data-width=350}
------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 ### Chart B
 
@@ -44,6 +46,7 @@ Column {data-width=350}
 nyc_food %>%
   plot_ly(x = ~boro, y = ~score, type = "violin")
 ```
+
 ### Chart C
 
 ```{r}
