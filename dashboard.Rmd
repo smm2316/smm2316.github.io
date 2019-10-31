@@ -1,0 +1,55 @@
+---
+title: "Education"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+
+```
+
+```{r data}
+nyc_food = 
+  p8105.datasets::rest_inspec %>%
+  janitor::clean_names() %>%
+  select(boro, critical_flag, cuisine_description, inspection_date, inspection_type, score, violation_description, grade) %>%
+  filter(boro!="Missing")
+
+```
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+nyc_food %>%
+  separate(inspection_date, into = c("year", "month", "day")) %>%
+  filter(critical_flag == "Critical") %>%
+  group_by(boro, critical_flag, year) %>%
+  summarize(n=n()) %>%
+  plot_ly(x = ~year, y = ~n, color = ~boro, type = "scatter", mode = "line")
+```
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+```{r}
+nyc_food %>%
+  plot_ly(x = ~boro, y = ~score, type = "violin")
+```
+
+```{r}
+nyc_food %>%
+  separate(inspection_date, into = c("year", "month", "day")) %>%
+  filter(cuisine_description == "African" | cuisine_description == "Asian" | cuisine_description == "American" | cuisine_description == "Pizza/Italian" | cuisine_description == "Latin (Cuban, Dominican, Puerto Rican, South & Central American)") %>%
+  group_by(cuisine_description, boro) %>%
+  summarize(mean_score = mean(score, na.rm = TRUE)) %>%
+  plot_ly(x = ~boro, y = ~mean_score, color = ~cuisine_description, type = "bar")
+
+```
+
