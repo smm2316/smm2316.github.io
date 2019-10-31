@@ -51,12 +51,12 @@ nyc_food %>%
   plot_ly(x = ~year, y = ~n, color = ~boro, type = "scatter", mode = "line")
 ```
 
-### Distribution of Donut Scores by Borough
+### Distribution of Donut Scores by Borough in 2017
 
 ```{r}
 nyc_food %>%
   separate(inspection_date, into = c("year", "month", "day")) %>%
-  filter(cuisine_description == "Donuts") %>%
+  filter(cuisine_description == "Donuts" & year == "2017") %>%
   plot_ly(x = ~boro, y = ~score, type = "violin")
 ```
 
