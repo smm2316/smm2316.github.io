@@ -26,28 +26,7 @@ nyc_food =
 Column {data-width=650}
 ----------------------------------------------------------------------------
 
-### Chart A
-
-```{r}
-nyc_food %>%
-  separate(inspection_date, into = c("year", "month", "day")) %>%
-  filter(critical_flag == "Critical") %>%
-  group_by(boro, critical_flag, year) %>%
-  summarize(n=n()) %>%
-  plot_ly(x = ~year, y = ~n, color = ~boro, type = "scatter", mode = "line")
-```
-
-Column {data-width=350}
---------------------------------------------------------------------------------
-
-### Chart B
-
-```{r}
-nyc_food %>%
-  plot_ly(x = ~boro, y = ~score, type = "violin")
-```
-
-### Chart C
+### Mean Score of Major Food Types by Borough
 
 ```{r}
 nyc_food %>%
@@ -56,6 +35,28 @@ nyc_food %>%
   group_by(cuisine_description, boro) %>%
   summarize(mean_score = mean(score, na.rm = TRUE)) %>%
   plot_ly(x = ~boro, y = ~mean_score, color = ~cuisine_description, type = "bar")
+```
 
+Column {data-width=350}
+--------------------------------------------------------------------------------
+
+### Number of Critical Inspections by Borough
+
+```{r}
+nyc_food %>%
+  separate(inspection_date, into = c("year", "month", "day")) %>%
+  filter(critical_flag == "Critical" & year > 2012) %>%
+  group_by(boro, critical_flag, year) %>%
+  summarize(n=n()) %>%
+  plot_ly(x = ~year, y = ~n, color = ~boro, type = "scatter", mode = "line")
+```
+
+### Distribution of Donut Scores by Borough
+
+```{r}
+nyc_food %>%
+  separate(inspection_date, into = c("year", "month", "day")) %>%
+  filter(cuisine_description == "Donuts") %>%
+  plot_ly(x = ~boro, y = ~score, type = "violin")
 ```
 

@@ -7,7 +7,7 @@ navbar:
       href: education.html
     - text: "Work Experience"
       href: work.html
-    - text: "Example Dashboard"
+    - text: "Example FlexDashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<smm2316@cumc.columbia.edu>
