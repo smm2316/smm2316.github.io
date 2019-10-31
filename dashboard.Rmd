@@ -38,10 +38,13 @@ nyc_food %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
+### Chart B
+
 ```{r}
 nyc_food %>%
   plot_ly(x = ~boro, y = ~score, type = "violin")
 ```
+### Chart C
 
 ```{r}
 nyc_food %>%
